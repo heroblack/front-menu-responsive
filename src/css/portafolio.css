@@ -168,7 +168,7 @@ figure {
     left: -200px;
     top: 0;
     bottom: 0;
-    background: #235;
+    background: rgba(2, 9, 8, 0.9);
 
     display: block;
     z-index: 0;
