@@ -23,7 +23,7 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 ## Autores ✒️
 
 - **Fabio Rojas <heroblack>** - _Trabajo Inicial_ - [heroblack](https://github.com/heroblack)
-- **Fabio Rojas** - _Documentación_ - [hackchan](#fulanito-de-tal)
+- **Fabio Rojas**<hackchan> - _Documentación_ - [hackchan](https://github.com/hackchan)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/heroblack/front-menu-responsive/contributors) quíenes han participado en este proyecto.
 
